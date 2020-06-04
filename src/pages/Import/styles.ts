@@ -12,7 +12,7 @@ export const Title = styled.h1`
   font-weight: 500;
   font-size: 36px;
   line-height: 54px;
-  color: #363f5f;
+  color: #2c1300;
   text-align: center;
 `;
 
@@ -34,7 +34,7 @@ export const Footer = styled.section`
     align-items: center;
     font-size: 12px;
     line-height: 18px;
-    color: #969cb3;
+    color: #2c1300;
 
     img {
       margin-right: 5px;

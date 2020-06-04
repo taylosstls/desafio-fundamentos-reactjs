@@ -27,7 +27,7 @@ export const Card = styled.div`
   background: ${({ total }: CardProps): string => (total ? '#FF872C' : '#fff')};
   padding: 22px 32px;
   border-radius: 5px;
-  color: ${({ total }: CardProps): string => (total ? '#fff' : '#363F5F')};
+  color: ${({ total }: CardProps): string => (total ? '#fff' : '#2c1300')};
 
   header {
     display: flex;
@@ -55,7 +55,7 @@ export const TableContainer = styled.section`
     border-spacing: 0 8px;
 
     th {
-      color: #969cb3;
+      color: #777;
       font-weight: normal;
       padding: 20px 32px;
       text-align: left;
@@ -69,10 +69,10 @@ export const TableContainer = styled.section`
       background: #fff;
       font-size: 16px;
       font-weight: normal;
-      color: #969cb3;
+      color: #969696;
 
       &.title {
-        color: #363f5f;
+        color: #2c1300;
       }
 
       &.income {
