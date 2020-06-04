@@ -1,5 +1,5 @@
 # 🚀 Desafio - Fundamentos ReactJS
-**Sexto desafio da Rocketseat utilizando fundamentos ReactJS com Typescript, rotas e submissão de arquivos .CSV por formulário **<br>
+**Sexto desafio da Rocketseat utilizando fundamentos ReactJS com Typescript, rotas e submissão de arquivos .CSV por formulário** <br>
 
 Utilizando o repositório backend e instruções do desafio anterior: https://github.com/taylosstls/desafio-database-upload<br />
 Starte a aplicação à parte em um **prompt/cmd** com o comando <code>"yarn start"</code>.
